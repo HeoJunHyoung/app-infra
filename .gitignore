@@ -1,4 +1,17 @@
-<<<<<<< HEAD
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
 HELP.md
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -274,4 +287,3 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,java,intellij,eclipse
->>>>>>> 503b1ce9101a744ed00a3cfdb24fb3de6758229b
